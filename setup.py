@@ -8,7 +8,7 @@ setup(
     name='django-monitoring',
     version='1.1.2',
     packages=['django_monitoring'],
-    description='A Django application for better monitoring of services.',
+    description='A Django application include features for better monitoring of services.',
     long_description=README,
     long_description_content_type='text/markdown',
     author='Execut3',
