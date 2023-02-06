@@ -1,4 +1,4 @@
-### DO NOT CLONE AND USE YET, Buggy and working on it
+### DO NOT CLONE or USE THIS PACKAGE, Buggy and working on it
 
 
 A Django App to deliver below features for better monitoring of services:
